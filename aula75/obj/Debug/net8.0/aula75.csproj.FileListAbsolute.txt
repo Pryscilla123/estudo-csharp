@@ -1,0 +1,14 @@
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\bin\Debug\net8.0\aula75.exe
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\bin\Debug\net8.0\aula75.deps.json
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\bin\Debug\net8.0\aula75.runtimeconfig.json
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\bin\Debug\net8.0\aula75.dll
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\bin\Debug\net8.0\aula75.pdb
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\obj\Debug\net8.0\aula75.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\obj\Debug\net8.0\aula75.AssemblyInfoInputs.cache
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\obj\Debug\net8.0\aula75.AssemblyInfo.cs
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\obj\Debug\net8.0\aula75.csproj.CoreCompileInputs.cache
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\obj\Debug\net8.0\aula75.dll
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\obj\Debug\net8.0\refint\aula75.dll
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\obj\Debug\net8.0\aula75.pdb
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\obj\Debug\net8.0\aula75.genruntimeconfig.cache
+C:\Users\prysc\OneDrive\Documents\C# estudo\aula75\obj\Debug\net8.0\ref\aula75.dll
