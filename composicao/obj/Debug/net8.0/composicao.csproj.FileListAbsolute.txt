@@ -1,0 +1,14 @@
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\obj\Debug\net8.0\composicao.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\obj\Debug\net8.0\composicao.AssemblyInfoInputs.cache
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\obj\Debug\net8.0\composicao.AssemblyInfo.cs
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\obj\Debug\net8.0\composicao.csproj.CoreCompileInputs.cache
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\bin\Debug\net8.0\composicao.exe
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\bin\Debug\net8.0\composicao.deps.json
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\bin\Debug\net8.0\composicao.runtimeconfig.json
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\bin\Debug\net8.0\composicao.dll
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\bin\Debug\net8.0\composicao.pdb
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\obj\Debug\net8.0\composicao.dll
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\obj\Debug\net8.0\refint\composicao.dll
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\obj\Debug\net8.0\composicao.pdb
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\obj\Debug\net8.0\composicao.genruntimeconfig.cache
+c:\Users\prysc\OneDrive\Documents\C# estudo\composicao\obj\Debug\net8.0\ref\composicao.dll
