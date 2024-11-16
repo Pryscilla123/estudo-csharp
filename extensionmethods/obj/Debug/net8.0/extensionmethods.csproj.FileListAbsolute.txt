@@ -1,0 +1,14 @@
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\bin\Debug\net8.0\extensionmethods.exe
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\bin\Debug\net8.0\extensionmethods.deps.json
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\bin\Debug\net8.0\extensionmethods.runtimeconfig.json
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\bin\Debug\net8.0\extensionmethods.dll
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\bin\Debug\net8.0\extensionmethods.pdb
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\obj\Debug\net8.0\extensionmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\obj\Debug\net8.0\extensionmethods.AssemblyInfoInputs.cache
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\obj\Debug\net8.0\extensionmethods.AssemblyInfo.cs
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\obj\Debug\net8.0\extensionmethods.csproj.CoreCompileInputs.cache
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\obj\Debug\net8.0\extensionmethods.dll
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\obj\Debug\net8.0\refint\extensionmethods.dll
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\obj\Debug\net8.0\extensionmethods.pdb
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\obj\Debug\net8.0\extensionmethods.genruntimeconfig.cache
+C:\Users\prysc\OneDrive\Documents\C# estudo\extensionmethods\obj\Debug\net8.0\ref\extensionmethods.dll
