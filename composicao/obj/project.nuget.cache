@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "iGa7QijRvPE=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\prysc\\OneDrive\\Documents\\C# estudo\\composicao\\composicao.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "iGa7QijRvPE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prysc\\OneDrive\\Documents\\C# estudo\\composicao\\composicao.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 2f54776591db587008f28ed6e6b0c338db6e9ded
 }

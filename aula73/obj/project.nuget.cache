@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "uIIE30B2yj4=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\prysc\\OneDrive\\Documents\\C# estudo\\aula73\\aula73.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "uIIE30B2yj4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prysc\\OneDrive\\Documents\\C# estudo\\aula73\\aula73.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 2f54776591db587008f28ed6e6b0c338db6e9ded
 }
